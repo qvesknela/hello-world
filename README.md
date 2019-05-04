@@ -1,4 +1,6 @@
- for (int i = 0; i < Cubes.transform.childCount; i++)
+ bbbbb
+           
+           for (int i = 0; i < Cubes.transform.childCount; i++)
                 {
                     intLst.Clear();                 // gaasuftave listi
                     rnd.Clear();
